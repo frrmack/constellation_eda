@@ -1,0 +1,501 @@
+lat,lon,insurance,condition,specialty,age,gender,doctor count,patient count
+40.742901,-73.67895,emblemhealth-hip-hip-smartstart-network-for-epo,vertigo,otolaryngology,25-34,M,8,40
+40.741012,-74.00012,unitedhealthcare-oxford-exchange,chest-pain,endocrinology-metab-diabetes,75+,M,0,0
+40.953261,-72.8368,aetna-health-insurance-aetna-open-access-elect-choice,hyperlipidemia,internal-medicine,25-34,M,1,1
+40.760128,-73.69379,emblemhealth-exchange-select-care-platinum-d-hmo,screening-for-malignant-neoplasm-of-breast,emergency-medicine,75+,M,0,0
+40.729098,-73.25607,unitedhealthcare-unitedhealthcare-ny-bronze-hmo-rx-10-35-70,atherosclerosis,internal-medicine,75+,F,13,21
+40.774686,-73.90816,unitedhealthcare-unitedhealthcare-ny-silver-hmo-rx-10-35-70-child-limited-csr,fever,pediatric-cardiology,25-34,F,0,0
+40.776777,-73.9541,emblemhealth-ghi-ghi-alliance-365-day-hospital-only,hyperglycemia,obstetrics-and-gynecology,55-64,F,3,3
+40.796752,-73.68935,unitedhealthcare-oxford-liberty-plansm-gated-ppo,hematuria,obstetrics-and-gynecology,45-54,M,0,0
+40.57649,-73.84721,agewell-new-york-feelwell-hmo-snp,schizophrenia,emergency-medicine,45-54,M,1,1
+40.796752,-73.68935,unitedhealthcare-unitedhealthcare-ny-silver-hmo-rx-10-35-70-child-limited-csr,osteoporosis,pulmonary-disease,35-44,F,2,2
+40.796752,-73.68935,magnacare-magnacare-access,essential-hypertension,emergency-medicine,45-54,F,107,864
+40.765,-73.965,medicare-medicare,hematuria,surgery,65-74,F,4,5
+40.787068,-73.72577,fidelis-care-family-health-plus,obesity,neurosurgery,25-34,F,2,2
+40.787068,-73.72577,aetna-health-insurance-aetna-medicare-plan-hmo,osteoporosis,vascular-surgery,35-44,M,0,0
+40.853343,-73.20777,emblemhealth-ghi-ghi-epo-ppo-hsa,dehydration,critical-care-medicine,65-74,F,0,0
+40.787068,-73.72577,aetna-health-insurance-open-access-aetna-select,menopause,obstetrics-and-gynecology,45-54,F,37,366
+40.922326,-72.637078,unitedhealthcare-unitedhealthcare-options-ppo,atrial-fibrillation,pediatrics,65-74,F,0,0
+40.864757,-73.62609,fidelis-care-family-health-plus,angina,internal-medicine,65-74,M,289,3768
+40.605245,-74.179485,aetna-health-insurance-aetna-voluntary-group-medical-plan-indemnity-plan,vaginitis,sports-medicine,65-74,F,0,0
+40.864757,-73.62609,fidelis-care-medicaid,esophagitis,internal-medicine,75+,F,263,2181
+40.508274,-74.24387,empire-blue-cross-blue-shield-exchange-silver-guided-access-pathways-pathways-x-pathways-enhanced-and-p,peripheral-vascular-disease,emergency-medicine,35-44,F,0,0
+40.862565,-73.36221,emblemhealth-hip-hip-ppo-self-insured,menorrhagia,orthopaedic-surgery,Under 18,F,0,0
+40.774686,-73.90816,emblemhealth-ghi-ghi-brooklyn-healthworks-max,hyperlipidemia,cardiology,55-64,F,58,1740
+40.741012,-74.00012,unitedhealthcare-health-savings-account-hsa,enuresis,pediatrics,Under 18,F,23,61
+40.760128,-73.69379,aetna-health-insurance-aetna-medicare-plan-hmo,anxiety,thoracic-surgery,25-34,M,1,1
+40.776777,-73.9541,emblemhealth-hip-hip-vip-medicare-advantage,gastroparesis,cardiology,75+,M,2,2
+40.765714,-73.9856,careconnect-health-plan-careconnect-tradional-gold-20-40-individual-small-large-group,hyperlipidemia,emergency-medicine,45-54,M,33,120
+40.867498,-73.41146,fidelis-care-fidelis-medicare-advantage-without-rx-hmo-pos-plan,hyperglycemia,head-neck-surgery,18-24,M,0,0
+40.741012,-74.00012,emblemhealth-hip-hip-prime-network-epo-ppo,vitamin-d-deficiency,physician-assistant-services,Under 18,F,1,1
+41.080196,-73.85721,unitedhealthcare-oxford-oxford-bronze-ny-standard-epo,nausea-and-vomiting,obstetrics-and-gynecology,Under 18,M,0,0
+40.742901,-73.67895,empire-blue-cross-blue-shield-direct-pay-hmo,screening-for-malignant-neoplasm-of-breast,anatomic-clinical-pathology,35-44,M,0,0
+40.813801,-73.46912,emblemhealth-exchange-select-care-hmo-40-60-gold,personality-disorder,orthopaedic-surgery,55-64,M,0,0
+40.787068,-73.72577,emblemhealth-ghi-ghi-epo-ppo-share,liver-cirrhosis,urology,75+,M,4,6
+40.599021,-74.07503,healthfirst-medicaid,pain-in-limb,pediatrics,25-34,F,0,0
+40.796752,-73.68935,unitedhealthcare-unitedhealthcare-catalyst,hematuria,anatomic-clinical-pathology,25-34,F,0,0
+40.729098,-73.25607,empire-blue-cross-blue-shield-exchange-essential-guided-access-pathways-pathways-x-pathways-enhanced-an,immunization,cardiology,25-34,F,1,1
+40.729098,-73.25607,unitedhealthcare-unitedhealthcare-ny-silver-hmo-rx-0-0-0-child-zero-csr,nasal-congestion,critical-care-medicine,55-64,M,1,4
+40.787068,-73.72577,fidelis-care-medicaid,atrial-fibrillation,medical-toxicology,45-54,M,2,2
+40.796752,-73.68935,empire-blue-cross-blue-shield-direct-pay-hmo,esophagitis,emergency-medicine,65-74,F,41,238
+40.787068,-73.72577,aetna-health-insurance-aetna-choice-pos,delirium,emergency-medicine,Under 18,M,1,1
+40.687649,-73.32549,fidelis-care-medicaid,hepatitis-c,vascular-intervent-radiology,55-64,F,0,0
+40.862565,-73.36221,careconnect-health-plan-careconnect-platinum-individual-small-large-group,chest-pain,pediatrics,35-44,M,1,2
+40.813801,-73.46912,aetna-health-insurance-elect-choice,immunization,interventional-cardiology,Under 18,M,0,0
+40.841522,-73.28001,aetna-health-insurance-aetna-medicare-plan-ppo,essential-hypertension,internal-medicine,65-74,M,82,1904
+40.760128,-73.69379,elderplan-elderplan-for-medicaid-beneficiaries-hmo-snp,dyspnea,internal-medicine,Under 18,F,2,2
+40.599021,-74.07503,emblemhealth-exchange-select-care-gold-d-hmo,anemia,urology,75+,M,1,3
+40.922326,-72.637078,cigna-healthcare-managed-care-plans-primary-care-physicians-hmo-or-pos,carotid-stenosis,obstetrics-and-gynecology,75+,M,0,0
+40.656974,-73.67306,unitedhealthcare-unitedhealthcare-ny-silver-hmo-rx-0-0-0-zero-csr,angina,pediatrics,55-64,F,0,0
+40.787068,-73.72577,emblemhealth-hip-emblemhealth-comprehealth-hmo,peripheral-vascular-disease,ophthalmology,75+,F,0,0
+40.747188,-73.63808,fidelis-care-fidelis-dual-advantage-flex,crohns-disease,neurotology,35-44,F,0,0
+40.760128,-73.69379,aetna-health-insurance-aetna-medicare-plan-hmo-open-access,screening-for-malignant-neoplasm-of-breast,emergency-medicine,Under 18,M,0,0
+40.700068,-73.80986,unitedhealthcare-unitedhealthcare-ny-silver-hmo-rx-6-15-30-child-94av-csr,aortic-valve-stenosis,internal-medicine,65-74,M,109,371
+40.632449,-73.99629,emblemhealth-exchange-select-care-platinum-pos,intestinal-obstruction,endocrinology-metab-diabetes,65-74,F,0,0
+40.862565,-73.36221,railroad-medicare-railroad-medicare,multiple-myeloma,neurosurgery,55-64,M,0,0
+40.760128,-73.69379,emblemhealth-hip-family-health-plus,female-genital-diseases,internal-medicine,75+,F,0,0
+40.796752,-73.68935,emblemhealth-hip-hip-access-i-ii-plans-vytra-hmo,angina,internal-medicine,25-34,M,27,40
+40.729098,-73.25607,agewell-new-york-carewell-hmo-snp,vitamin-d-deficiency,dental-medicine,55-64,M,0,0
+40.813801,-73.46912,cigna-healthcare-gwh-cigna,dyspnea,medical-toxicology,55-64,F,0,0
+40.656974,-73.67306,empire-blue-cross-blue-shield-exchange-gold-guided-access-pathways-pathways-x-pathways-enhanced-and-pat,mitral,pediatric-urology,55-64,M,0,0
+40.741012,-74.00012,emblemhealth-exchange-select-care-platinum-pos,pelvic-mass,cardiology,75+,F,2,2
+40.599021,-74.07503,healthfirst-healthfirst-completecare-hmo-snp,gout,ophthalmology,55-64,F,0,0
+40.760128,-73.69379,healthplus-amerigroup-medicaid-advantage-plus,enuresis,np-in-adult-health,45-54,M,0,0
+40.867498,-73.41146,emblemhealth-exchange-select-care-hmo-40-60-gold,hyperlipidemia,pediatrics,18-24,M,3,3
+40.599021,-74.07503,empire-blue-cross-blue-shield-exchange-gold-direct-access-pathways-pathways-x-pathways-enhanced-and-pat,hyperlipidemia,podiatric-medicine,25-34,F,0,0
+40.760128,-73.69379,emblemhealth-ghi-inbalance-epo,mitral-valve-insufficiency,pediatric-emergency-medicine,65-74,F,0,0
+40.862565,-73.36221,emblemhealth-ghi-inbalance-epo,dermatitis-atopic,obstetrics-and-gynecology,Under 18,F,0,0
+40.796752,-73.68935,emblemhealth-hip-vytra-smartstart,coronary-artery-disease,cardiology,75+,F,80,1801
+40.787068,-73.72577,cigna-healthcare-gwh-cigna-open-access-plus,hyperlipidemia,pediatric-hospital-medicine,65-74,F,0,0
+40.922326,-72.637078,humana-medicare-hmo,hernia-inguinal,sports-medicine,65-74,F,0,0
+40.599021,-74.07503,aetna-health-insurance-aetna-medicare-plan-ppo,tobacco-use-disorder,pulmonary-disease,25-34,F,0,0
+40.787068,-73.72577,empire-blue-cross-blue-shield-empire-total-blue,abnormal-uterine-bleeding,critical-care-medicine,75+,F,2,2
+40.741012,-74.00012,emblemhealth-exchange-select-care-bronze-hmo,acute-pancreatitis,internal-medicine,35-44,M,16,20
+40.760128,-73.69379,emblemhealth-hip-hip-premium-network-hmo-pos,arthritis,orthopaedic-surgery,75+,F,31,130
+40.787068,-73.72577,careconnect-health-plan-careconnect-catastrophic-individual-small-large-group,immunization,cardiac-electrophysiology,65-74,F,0,0
+40.656974,-73.67306,healthfirst-healthfirst-life-improvement-plan-hmo-snp,aortic-valve-stenosis,obstetrics-and-gynecology,25-34,M,0,0
+40.760128,-73.69379,unitedhealthcare-oxford-liberty-plansm-ppo,ulcerative-colitis,pediatrics,Under 18,M,9,21
+40.787068,-73.72577,unitedhealthcare-unitedhealthcare-ny-gold-hmo-rx-10-35-70-child-limited-csr,obesity,geriatric-medicine,75+,F,13,77
+40.734212,-73.21416,agewell-new-york-feelwell-hmo-snp,dyspepsia,pediatrics,75+,F,0,0
+40.867498,-73.41146,emblemhealth-hip-hip-smartstart-network-for-epo,endometriosis,obstetrics-and-gynecology,65-74,F,1,1
+40.922326,-72.637078,aetna-health-insurance-signature-administrators-plan,essential-hypertension,emergency-medicine,55-64,F,0,0
+40.796752,-73.68935,emblemhealth-exchange-select-care-gold-d-hmo,asthma,cardiology,45-54,M,21,51
+40.77,-73.96,emblemhealth-ghi-ghi-alliance-365-day-hospital-only,chest-pain,pediatrics,18-24,F,6,9
+40.606337,-74.14513,healthfirst-exchange-bronze-leaf-plan,hepatitis-c,allergy-and-immunology,45-54,F,0,0
+40.815215,-73.50057,unitedhealthcare-unitedhealthcare-ny-silver-hmo-rx-6-15-30-94av-csr,anemia,physician-assistant-services,25-34,M,1,1
+40.68085,-73.46289,unitedhealthcare-unitedhealthcare-options-non-differential-ppo,chronic-obstructive-airway-disease,gynecologic-oncology,45-54,F,0,0
+40.867498,-73.41146,unitedhealthcare-oxford-oxford-silver-ny-standard-epo,obesity,orthopaedic-surgery,25-34,M,6,11
+40.599021,-74.07503,unitedhealthcare-health-reimbursement-account-hra,heart-failure,joint-reconstruction,65-74,F,0,0
+40.787068,-73.72577,unitedhealthcare-unitedhealthcare-ny-platinum-hmo-rx-10-30-60-child-limited-csr,angina,emergency-medicine,18-24,M,1,2
+40.742901,-73.67895,unitedhealthcare-core,mitral,pediatrics,75+,M,0,0
+40.787068,-73.72577,cigna-healthcare-managed-care-plans-network-open-access,benign-neoplasm-of-soft-tissue,obstetrics-and-gynecology,75+,M,0,0
+40.742901,-73.67895,careconnect-health-plan-careconnect-large-epo-large-group,fever,emergency-medicine,35-44,F,59,169
+40.796752,-73.68935,unitedhealthcare-unitedhealthcare-ny-silver-hmo-rx-9-20-40-87av-csr,coronary-artery-disease,obstetrics-and-gynecology,55-64,M,0,0
+40.729098,-73.25607,aetna-health-insurance-aetna-limited-benefits-insurance-plan-ppo,hyperlipidemia,internal-medicine,45-54,M,34,529
+40.765,-73.965,healthplus-amerigroup-health-plus-medicare-advantage,heart-diseases,internal-medicine,25-34,F,2,3
+40.742901,-73.67895,unitedhealthcare-unitedhealthcare-ny-bronze-hmo-rx-10-35-70-child-limited-csr,iron-deficiency-anemia,emergency-medicine,45-54,F,24,48
+40.77,-73.96,aetna-health-insurance-aetna-open-access-managed-choice,hypoglycemia,interventional-cardiology,75+,F,0,0
+40.742901,-73.67895,cigna-healthcare-managed-care-plans-localplus,malignant-neoplasm-of-kidney,family-medicine,25-34,M,0,0
+40.742901,-73.67895,emblemhealth-ghi-ghi-city-of-ny-health-benefits-program,dyspnea,obstetrics-and-gynecology,Under 18,F,0,0
+40.729098,-73.25607,emblemhealth-exchange-select-care-silver-d-hmo,diabetes-mellitus,np-obstetrics-and-gynecology,25-34,M,0,0
+40.741012,-74.00012,emblemhealth-hip-hip-premium-network-epo-ppo,hyperlipidemia,orthopaedic-surgery,55-64,M,24,115
+40.76842,-73.96045,empire-blue-cross-blue-shield-exchange-gold-direct-access-pathways-pathways-x-pathways-enhanced-and-pat,female-stress-incontinence,internal-medicine,Under 18,F,0,0
+40.765,-73.965,emblemhealth-hip-emblemhealth-comprehealth-epo,hernia-inguinal,emergency-medicine,Under 18,F,1,1
+40.606337,-74.14513,aetna-health-insurance-aetna-open-access-managed-choice,angina,urology,45-54,M,5,10
+40.796752,-73.68935,emblemhealth-hip-hip-hmo-direct-pay,tremor,orthopaedic-surgery,75+,F,2,2
+40.742901,-73.67895,unitedhealthcare-unitedhealthcare-ny-gold-hmo-rx-0-0-0-child-zero-csr,immunization,internal-medicine,65-74,F,184,4452
+41.167455,-73.77597,aetna-health-insurance-aetna-health-network-only,esophagitis,orthopaedic-surgery,Under 18,M,0,0
+40.922326,-72.637078,emblemhealth-hip-medicare-dual-eligile-ppo-snp,duodenitis,cardiology,35-44,F,0,0
+40.760128,-73.69379,magnacare-magnacare-perferred-ppo,electrocardiogram,cardiology,Under 18,M,0,0
+40.77,-73.96,emblemhealth-hip-hip-vip-medicare-advantage,essential-hypertension,pediatric-ophthalmology,Under 18,M,0,0
+40.787068,-73.72577,aetna-health-insurance-open-access-aetna-select,weakness,internal-medicine,55-64,F,76,116
+41.080196,-73.85721,fidelis-care-fidelis-medicare-advantage-flex-plan-hmo-pos,hyperlipidemia,emergency-medicine,Under 18,F,0,0
+40.867498,-73.41146,unitedhealthcare-unitedhealthcare-ny-bronze-hmo-rx-0-0-0-child-zero-csr,lupus-erythematosus-systemic,pediatric-emergency-medicine,55-64,F,0,0
+40.720535,-73.84582,empire-blue-cross-blue-shield-medibluesmsmartvalue-plus,essential-hypertension,pediatric-endocrinology,45-54,F,0,0
+40.774686,-73.90816,unitedhealthcare-unitedhealthcare-ny-silver-hmo-rx-10-35-70-child-limited-csr,constipation,orthopaedic-surgery,55-64,F,5,11
+40.796752,-73.68935,healthfirst-exchange-bronze-leaf-plan,snoring,emergency-medicine,55-64,M,2,2
+40.599021,-74.07503,emblemhealth-exchange-select-care-healthy-ny-hmo-gold,dyspnea,pediatrics,65-74,F,0,0
+40.746718,-73.75994,empire-blue-cross-blue-shield-exchange-preferred-guided-access-pathways-pathways-x-pathways-enhanced-an,schizophrenia,internal-medicine,18-24,F,11,12
+40.663935,-73.63792,unitedhealthcare-unitedhealthcare-ny-bronze-hmo-rx-10-35-70,dysuria,np-in-family-health,55-64,F,3,19
+40.729098,-73.25607,cigna-healthcare-managed-care-plans-open-access-plus,essential-hypertension,maternal-fetal-medicine,35-44,F,3,17
+40.760128,-73.69379,healthsmart-world-trade-center-program-only,malnutrition,emergency-medicine,Under 18,F,0,0
+40.787068,-73.72577,unitedhealthcare-oxford-liberty-plansm-gated-epo,hematuria,internal-medicine,55-64,M,114,303
+40.946103,-73.06222,empire-blue-cross-blue-shield-child-health-plus,chronic-obstructive-airway-disease,ophthalmology,55-64,M,0,0
+40.815215,-73.50057,unitedhealthcare-unitedhealthcare-ny-bronze-hmo-rx-10-35-70-child-limited-csr,hernia,maternal-fetal-medicine,65-74,F,0,0
+40.922326,-72.637078,unitedhealthcare-exchange-unitedhealthcare-catastrophic-compass-6-600,abnormal-uterine-bleeding,maternal-fetal-medicine,18-24,F,0,0
+40.599021,-74.07503,agewell-new-york-feelwell-hmo-snp,immunization,rheumatology,Under 18,F,0,0
+40.729098,-73.25607,unitedhealthcare-oxford-aarp-medicare-complete-hmo-plan-i,endometrium,adolescent-medicine,35-44,M,0,0
+40.796752,-73.68935,affinity-health-plan-medicaid,back-pain,internal-medicine,25-34,M,86,197
+40.848764,-73.93496,empire-blue-cross-blue-shield-direct-pay-hmo,pharyngitis,neurosurgery,35-44,F,0,0
+40.76842,-73.96045,unitedhealthcare-unitedhealthcare-ny-silver-hmo-rx-0-0-0-child-zero-csr,anxiety,pediatrics,18-24,F,16,34
+40.759015,-73.96732,healthfirst-healthfirst-increased-benefits-plan-hmo,recurrent-inguinal-hernia,internal-medicine,Under 18,F,0,0
+41.080196,-73.85721,unitedhealthcare-unitedhealthcare-ny-catastrophic-hmo,hyperglycemia,child-neurology,25-34,F,0,0
+40.787068,-73.72577,emblemhealth-ghi-ghi-brooklyn-healthworks-max,chest-pain,pediatric-emergency-medicine,65-74,F,2,6
+40.729098,-73.25607,healthfirst-exchange-green-leaf-plan,cardiac-arrhythmia,pulmonary-disease,25-34,F,0,0
+40.760128,-73.69379,unitedhealthcare-unitedhealthcare-north-shore-lij-advantage,essential-hypertension,physician-assistant-services,65-74,M,5,40
+40.867498,-73.41146,careconnect-health-plan-careconnect-tradional-gold-20-40-individual-small-large-group,dementia,ophthalmology,35-44,F,0,0
+40.742901,-73.67895,healthfirst-exchange-bronze-leaf-plan,immunization,internal-medicine,65-74,M,168,3401
+40.77,-73.96,unitedhealthcare-oxford-oxford-epo-hsa-freedom-network-liberty-network,erectile-dysfunction,pediatrics,75+,M,0,0
+41.080196,-73.85721,emblemhealth-exchange-select-care-platinum-hmo,gestational-diabetes,surgery,45-54,M,0,0
+40.760128,-73.69379,emblemhealth-hip-family-health-plus,diarrhea,nephrology,65-74,F,3,13
+40.765,-73.965,magnacare-magnacare-standard-ppo,hyperlipidemia,emergency-medicine,35-44,F,23,34
+40.796752,-73.68935,emblemhealth-ghi-ghi-medicare-dual-eligile-ppo-snp,pharyngitis,sports-medicine,45-54,M,1,1
+40.884394,-73.15868,empire-blue-cross-blue-shield-direct-pos,sinusitis,sports-medicine,Under 18,F,0,0
+40.787068,-73.72577,cigna-healthcare-managed-care-plans-hmo-or-pos-open-access,hyperlipidemia,cardiology,65-74,F,74,2964
+40.599021,-74.07503,aetna-health-insurance-aetna-open-access-elect-choice,otitis-externa,endocrinology-metab-diabetes,35-44,F,0,0
+40.742901,-73.67895,emblemhealth-hip-hip-medicaid,constipation,obstetrics-and-gynecology,55-64,M,0,0
+40.741012,-74.00012,emblemhealth-ghi-ghi-small-business-advantage-plan,heart-failure,ophthalmology,65-74,F,0,0
+40.862565,-73.36221,unitedhealthcare-exchange-unitedhealthcare-platinum-compass,esophagitis,obstetrics-and-gynecology,55-64,F,14,37
+40.779911,-73.47948,healthplus-amerigroup-health-plus-medicare-advantage,chest-pain,sleep-medicine,35-44,F,1,2
+40.599021,-74.07503,aetna-health-insurance-aetna-select,anorexia,nuclear-cardiology,55-64,M,0,0
+40.796752,-73.68935,careconnect-health-plan-careconnect-platinum-individual-small-large-group,coronary-artery-disease,emergency-medicine,25-34,M,1,1
+40.884394,-73.15868,emblemhealth-hip-hip-premium-network-hmo-pos,diabetes-mellitus,otolaryngology,Under 18,F,0,0
+40.741012,-74.00012,aetna-health-insurance-aetna-select,hyperlipidemia,pediatrics,35-44,F,0,0
+40.760128,-73.69379,amidacare-live-life-advantage-hmo-snp,esophagitis,np-in-family-health,65-74,F,8,78
+40.741012,-74.00012,emblemhealth-hip-hip-prime-network-epo-ppo,hyperlipidemia,geriatric-psychiatry,35-44,F,0,0
+40.760128,-73.69379,cigna-healthcare-gwh-cigna-open-access-plus,syncope,dental-medicine,25-34,F,0,0
+40.760128,-73.69379,aetna-health-insurance-aetna-open-access-hmo,erectile-dysfunction,otolaryngology,35-44,M,0,0
+40.787068,-73.72577,unitedhealthcare-unitedhealthcare-ny-silver-hmo-rx-10-35-70-73av-csr,essential-hypertension,pediatrics,55-64,F,4,24
+40.779911,-73.47948,unitedhealthcare-unitedhealthcare-ny-gold-hmo-rx-10-35-70-limited-csr,hypercholesterolemia,pulmonary-disease,45-54,F,7,41
+40.760128,-73.69379,empire-blue-cross-blue-shield-blue-priority,hyperlipidemia,emergency-medicine,65-74,M,18,56
+40.796752,-73.68935,emblemhealth-exchange-select-care-bronze-d-hmo,sciatica,foot-and-ankle-surgery,55-64,F,1,2
+40.796752,-73.68935,magnacare-magnacare-client-list-aso-ppo,immunization,spine-surgery,55-64,M,0,0
+40.76842,-73.96045,emblemhealth-exchange-select-care-gold-hmo,hyperlipidemia,emergency-medicine,Under 18,F,0,0
+40.725968,-73.44151,unitedhealthcare-exchange-unitedhealthcare-catastrophic-compass-6-600,osteoporosis,critical-care-medicine,65-74,F,2,10
+40.862565,-73.36221,unitedhealthcare-oxford-liberty-plansm-gated-epo,immunization,np-in-adult-health,45-54,F,4,19
+41.204027,-73.73045,unitedhealthcare-unitedhealthcare-ny-silver-hmo-rx-6-15-30-child-94av-csr,hyperlipidemia,maternal-fetal-medicine,25-34,M,0,0
+40.729098,-73.25607,aetna-health-insurance-traditional-choice,hematuria,emergency-medicine,25-34,F,17,27
+40.529749,-74.21304,empire-blue-cross-blue-shield-exchange-bronze-guided-access-pathways-pathways-x-pathways-enhanced-and-p,benign-prostatic-hyperplasia,internal-medicine,65-74,M,71,587
+40.729098,-73.25607,healthfirst-child-health-plus,constipation,surgery,65-74,F,2,3
+40.529749,-74.21304,aetna-health-insurance-quality-point-of-service-qpos,immunization,np-in-adult-health,65-74,M,0,0
+40.922326,-72.637078,empire-blue-cross-blue-shield-exchange-core-direct-access-pathways-pathways-x-pathways-enhanced-and-pat,asthma,pediatrics,75+,F,0,0
+40.658188,-73.84321,cigna-healthcare-ppo-or-epo-plans,weakness,urology,75+,F,2,2
+40.720535,-73.84582,unitedhealthcare-unitedhealthcare-ny-gold-hmo-rx-0-0-0-child-zero-csr,low-back-pain,internal-medicine,25-34,F,91,192
+40.673438,-73.53382,aetna-health-insurance-managed-choice-pos,immunization,radiation-oncology,35-44,F,0,0
+41.167455,-73.77597,emblemhealth-hip-millenium-network,thrombosis,orthopaedic-surgery,65-74,F,0,0
+41.167455,-73.77597,unitedhealthcare-unitedhealthcare-ny-gold-hmo-rx-0-0-0-child-zero-csr,obesity,neonatal-perinatal-medicine,55-64,M,0,0
+40.826201,-73.94879,the-empire-plan-ppo,diarrhea,emergency-medicine,65-74,M,26,39
+40.787068,-73.72577,cigna-healthcare-managed-care-plans-primary-care-physicians-hmo-or-pos,essential-hypertension,obstetrics-and-gynecology,Under 18,M,0,0
+41.176837,-73.84741,magnacare-magnacare-national-access,recurrent-inguinal-hernia,orthopaedic-surgery,55-64,F,0,0
+40.742901,-73.67895,affinity-health-plan-child-health-plus,pharyngitis,urology,75+,M,1,1
+40.725257,-73.64056,empire-blue-cross-blue-shield-directshare-pos,heart-diseases,obstetrics-and-gynecology,55-64,F,2,8
+40.787068,-73.72577,empire-blue-cross-blue-shield-epo,hyperlipidemia,preventive-medicine,35-44,F,2,14
+40.765,-73.965,emblemhealth-hip-hip-medicaid,heart-diseases,emergency-medicine,45-54,F,3,4
+40.77,-73.96,emblemhealth-ghi-hmo-select,abdominal-pain,emergency-medicine,25-34,F,19,315
+40.776777,-73.9541,healthfirst-healthfirst-assuredcare-hmo-snp,coronary-artery-disease,internal-medicine,55-64,F,80,510
+40.922326,-72.637078,empire-blue-cross-blue-shield-direct-pos,aneurysm,medical-genetics,35-44,F,0,0
+40.742901,-73.67895,empire-blue-cross-blue-shield-exchange-premiere-direct-access-pathways-pathways-x-pathways-enhanced-and,bulimia,pulmonary-disease,25-34,F,2,3
+40.787068,-73.72577,emblemhealth-hip-emblemhealth-epo-ppo,dementia,pediatric-endocrinology,25-34,F,0,0
+40.673438,-73.53382,healthfirst-healthfirst-assuredcare-hmo-snp,dementia,critical-care-medicine,Under 18,F,0,0
+40.765714,-73.9856,cigna-healthcare-ppo-or-epo-plans,essential-hypertension,obstetrics-and-gynecology,35-44,F,25,107
+40.815215,-73.50057,unitedhealthcare-unitedhealthcare-ny-platinum-hmo-rx-0-0-0-child-zero-csr,pelvic-mass,critical-care-medicine,35-44,M,0,0
+40.862565,-73.36221,emblemhealth-hip-hip-hmo-direct-pay,angina,urology,55-64,F,1,1
+41.080196,-73.85721,empire-blue-cross-blue-shield-empire-prism-ppo,essential-hypertension,ophthalmology,55-64,F,0,0
+40.599021,-74.07503,emblemhealth-ghi-ghi-flex-select-epo-hospital-benefits-ppo,iron-deficiency-anemia,dermatology,35-44,M,0,0
+40.76842,-73.96045,emblemhealth-exchange-select-care-basic-hmo,sinusitis,thoracic-surgery,55-64,M,0,0
+40.599021,-74.07503,empire-blue-cross-blue-shield-exchange-core-guided-access-pathways-pathways-x-pathways-enhanced-and-pat,hyperlipidemia,obstetrics-and-gynecology,45-54,F,9,17
+40.741012,-74.00012,emblemhealth-hip-hip-medicaid,atherosclerosis,sports-medicine,35-44,F,0,0
+40.666575,-73.55475,empire-blue-cross-blue-shield-exchange-platinum-direct-access-pathways-pathways-x-pathways-enhanced-and,colonoscopy,podiatric-medicine-and-surgery,45-54,M,0,0
+40.787068,-73.72577,cigna-healthcare-ppo-or-epo-plans,heart-failure,internal-medicine,75+,M,294,1920
+40.729098,-73.25607,unitedhealthcare-community-plan-family-health-plus,conjunctivitis,pediatrics,45-54,F,0,0
+40.720535,-73.84582,empire-blue-cross-blue-shield-exchange-essential-direct-access-pathways-pathways-x-pathways-enhanced-an,cholelithiasis,gastroenterology,45-54,M,4,4
+40.741012,-74.00012,emblemhealth-exchange-select-care-gold-d-hmo,coronary-artery-disease,emergency-medicine,75+,M,34,162
+40.724883,-73.51739,unitedhealthcare-unitedhealthcare-ny-gold-hmo-rx-10-35-70-child-limited-csr,hernia,pulmonary-disease,55-64,M,5,6
+40.862565,-73.36221,magnacare-magnacare-client-list-aso-ppo,essential-hypertension,pediatrics,65-74,M,4,5
+40.734212,-73.21416,unitedhealthcare-unitedhealthcare-ny-gold-hmo-rx-0-0-0-zero-csr,atherosclerosis,emergency-medicine,55-64,M,4,5
+40.687649,-73.32549,aetna-health-insurance-aetna-choice-pos-ii,chronic-disease,internal-medicine,Under 18,M,0,0
+40.864757,-73.62609,unitedhealthcare-unitedhealthcare-ny-silver-hmo-rx-10-35-70,rhinitis,cardiology,Under 18,F,0,0
+40.867498,-73.41146,emblemhealth-hip-medicare-dual-eligile-ppo-snp,hyperlipidemia,emergency-medicine,55-64,M,29,618
+40.729098,-73.25607,elderplan-elderplan-extra-help-hmo,vitamin-d-deficiency,dermatology,18-24,F,0,0
+41.080196,-73.85721,emblemhealth-exchange-select-care-platinum-hmo,diabetes-mellitus,internal-medicine,Under 18,F,0,0
+40.747188,-73.63808,healthplus-amerigroup-medicaid-advantage-plus,immunization,plastic-surgery,75+,M,0,0
+40.841522,-73.28001,healthfirst-exchange-gold-leaf-plan,arthritis,internal-medicine,Under 18,F,0,0
+40.796752,-73.68935,magnacare-magnacare-backstretch-employee-services-team-b-e-s-t,hematuria,surgery,35-44,F,3,3
+40.787068,-73.72577,elderplan-elderplan-for-medicaid-beneficiaries-hmo-snp,coronary-artery-disease,female-pelvic-med-reconst-surg,45-54,F,0,0
+41.080196,-73.85721,emblemhealth-hip-family-health-plus,pruritus,emergency-medicine,55-64,F,0,0
+40.796752,-73.68935,emblemhealth-hip-hip-vip-medicare-advantage,melena,eeg-epilepsy,25-34,F,0,0
+40.599021,-74.07503,unitedhealthcare-exchange-unitedhealthcare-silver-compass-2-000,ocular-hypertension,emergency-medicine,65-74,F,0,0
+40.922326,-72.637078,unitedhealthcare-unitedhealthcare-ny-gold-hmo-rx-0-0-0-child-zero-csr,hypothyroidism,critical-care-medicine,25-34,F,0,0
+40.848764,-73.93496,empire-blue-cross-blue-shield-mediblue-hmo,pruritus,physician-assistant-services,65-74,M,0,0
+40.742901,-73.67895,cigna-healthcare-gwh-cigna,anemia,child-adolescent-psychiatry,55-64,F,0,0
+40.796752,-73.68935,multiplan-inc-multiplan,rhinitis,cardiology,55-64,F,8,13
+40.77,-73.96,unitedhealthcare-exchange-unitedhealthcare-silver-compass-hsa-1-750,cellulitis,eeg-epilepsy,25-34,M,0,0
+40.787068,-73.72577,unitedhealthcare-unitedhealthcare-ny-platinum-hmo-rx-10-30-60-child-limited-csr,anemia,orthopaedic-sports-medicine,65-74,F,3,7
+40.742901,-73.67895,unitedhealthcare-unitedhealthcare-ny-platinum-hmo-rx-10-30-60-child-limited-csr,pulmonary-embolism,emergency-medicine,45-54,F,17,50
+40.77,-73.96,unitedhealthcare-oxford-oxford-platinum-ny-standard-epo,congestive-heart-failure,pediatric-emergency-medicine,65-74,F,0,0
+40.742901,-73.67895,cigna-healthcare-managed-care-plans-hmo-or-pos-open-access,congestive-heart-failure,critical-care-medicine,35-44,F,5,5
+40.673,-73.70346,empire-blue-cross-blue-shield-exchange-bronze-guided-access-pathways-pathways-x-pathways-enhanced-and-p,vitamin-d-deficiency,plastic-surgery,25-34,M,0,0
+40.760128,-73.69379,magnacare-magnacare-client-list-aso-ppo,dementia,pediatrics,75+,F,0,0
+40.713459,-73.3001,agewell-new-york-carewell-hmo-snp,crohns-disease,emergency-medicine,45-54,M,2,2
+40.841522,-73.28001,unitedhealthcare-unitedhealthcare-ny-bronze-hmo-rx-0-0-0-zero-csr,essential-hypertension,emergency-medicine,Under 18,F,1,1
+40.729098,-73.25607,touchstone-health-touchstone-health-medicare-prestige-hmo-snp,congestive-heart-failure,cardiology,35-44,F,0,0
+40.760128,-73.69379,unitedhealthcare-unitedhealthcare-ny-silver-hmo-rx-10-35-70-child-only,benign-prostatic-hyperplasia,colon-rectal-surgery,75+,M,5,31
+40.599021,-74.07503,emblemhealth-hip-medicare-vip-premier-hmo-group,colonic-polyps,foot-and-ankle-surgery,65-74,F,0,0
+40.76842,-73.96045,emblemhealth-ghi-inbalance-epo,endometrium,psychiatry,65-74,F,0,0
+40.862565,-73.36221,cigna-healthcare-managed-care-plans-network-open-access,essential-hypertension,pediatrics,75+,F,2,3
+40.63212,-74.11551,emblemhealth-exchange-select-care-silver-d-hmo,angina,cardiology,25-34,M,14,21
+40.787068,-73.72577,unitedhealthcare-united-healthcare-medicare-complete-choice,atrial-fibrillation,internal-medicine,65-74,M,302,2048
+40.765,-73.965,empire-blue-cross-blue-shield-exchange-bronze-guided-access-pathways-pathways-x-pathways-enhanced-and-p,essential-hypertension,eeg-epilepsy,25-34,F,2,3
+40.599021,-74.07503,humana-medicare-hmo,post-traumatic-stress-disorder,obstetrics-and-gynecology,25-34,F,4,4
+41.080196,-73.85721,magnacare-magnacare-access,atherosclerosis,otolaryngology,25-34,M,0,0
+40.796752,-73.68935,fidelis-care-fidelis-medicare-advantage-0-premium-hmo-plan,iron-deficiency-anemia,internal-medicine,25-34,M,32,42
+40.760128,-73.69379,emblemhealth-ghi-ghi-flex-select-epo-hospital-benefits-ppo,hemorrhoids,foot-and-ankle-surgery,Under 18,M,0,0
+40.872265,-73.86937,emblemhealth-ghi-consumerdirect-epo,abnormal-uterine-bleeding,hematology,25-34,F,1,2
+40.725257,-73.64056,emblemhealth-hip-hip-ppo-self-insured,dyspnea,pediatrics,25-34,F,2,2
+40.796752,-73.68935,healthfirst-child-health-plus,anxiety,ophthalmology,75+,M,0,0
+40.779911,-73.47948,unitedhealthcare-unitedhealthcare-north-shore-lij-advantage,back-pain,obstetrics-and-gynecology,35-44,M,0,0
+40.922326,-72.637078,unitedhealthcare-unitedhealthcare-ny-platinum-hmo-rx-0-0-0-zero-csr,dyspepsia,orthopaedic-surgery,55-64,M,0,0
+40.732509,-73.98935,unitedhealthcare-oxford-oxford-epo-freedom-network-liberty-network,transient-ischemic-attack,orthopaedic-surgery,55-64,F,5,8
+40.760128,-73.69379,unitedhealthcare-unitedhealthcare-ny-gold-hmo-rx-10-35-70-child-limited-csr,osteoporosis,dermatology,55-64,F,0,0
+40.787068,-73.72577,elderplan-elderplan-for-medicaid-beneficiaries-hmo-snp,pelvic-pain,cardiology,75+,F,2,2
+40.867498,-73.41146,aetna-health-insurance-elect-choice,chronic-disease,cardiac-electrophysiology,75+,M,2,10
+40.796752,-73.68935,emblemhealth-hip-emblemhealth-comprehealth-hmo,esophagitis,pediatrics,Under 18,F,133,816
+40.760128,-73.69379,cigna-healthcare-managed-care-plans-open-access-plus,hypercholesterolemia,internal-medicine,Under 18,F,2,3
+40.760128,-73.69379,emblemhealth-exchange-select-care-hmo-40-60-gold,immunization,cardiology,65-74,M,28,687
+40.922326,-72.637078,emblemhealth-hip-hip-prime-network-hmo-pos,atrial-fibrillation,maternal-fetal-medicine,35-44,F,0,0
+40.742901,-73.67895,careconnect-health-plan-careconnect-silver-individual-small-large-group,diverticulitis,np-in-womens-health,55-64,F,0,0
+40.742901,-73.67895,emblemhealth-ghi-medicare-group-access-ppo,hypertensive-heart-disease,family-medicine,75+,M,6,51
+40.599021,-74.07503,emblemhealth-ghi-ghi-epo-ppo,anxiety-disorders,orthopaedic-sports-medicine,75+,M,0,0
+40.796752,-73.68935,empire-blue-cross-blue-shield-exchange-silver-direct-access-pathways-pathways-x-pathways-enhanced-and-p,essential-hypertension,emergency-medicine,45-54,F,101,819
+40.787068,-73.72577,healthfirst-healthfirst-increased-benefits-plan-hmo,essential-hypertension,dermatology,25-34,F,0,0
+40.632449,-73.99629,unitedhealthcare-oxford-aarp-medicare-complete-essential-h,angina,infectious-disease,25-34,F,0,0
+40.729098,-73.25607,affinity-health-plan-exchange-affinity-essential-catastrophic,hordeolum,emergency-medicine,75+,F,0,0
+40.796752,-73.68935,emblemhealth-hip-hip-prime-network-epo-ppo,essential-hypertension,reproductive-endo-infertility,Under 18,F,0,0
+40.729098,-73.25607,healthplus-amerigroup-medicaid-advantage,neuropathy,rheumatology,55-64,F,3,11
+40.729098,-73.25607,cigna-healthcare-indemnity,hyperlipidemia,ophthalmology,35-44,F,0,0
+40.796752,-73.68935,unitedhealthcare-oxford-exchange,essential-hypertension,physician-assistant-services,75+,M,3,17
+40.953261,-72.8368,emblemhealth-hip-hip-smartstart-network-for-epo,hyperlipidemia,psychiatry,25-34,F,0,0
+40.787068,-73.72577,unitedhealthcare-unitedhealthcare-ny-gold-hmo-rx-10-35-70-child-only,cardiomyopathy,pediatrics,55-64,F,0,0
+40.765,-73.965,unitedhealthcare-unitedhealthcare-ny-silver-hmo-rx-10-35-70-limited-csr,chest-pain,np-in-neonatology,65-74,F,0,0
+40.599021,-74.07503,fidelis-care-fidelis-dual-advantage,angina,internal-medicine,45-54,M,69,520
+40.796752,-73.68935,elderplan-elderplan-extra-help-hmo,hematuria,maternal-fetal-medicine,45-54,M,0,0
+40.926595,-72.65327,unitedhealthcare-oxford-aarp-medicare-complete-hmo-plan-2i,chest-pain,physical-rehab-medicine,25-34,F,0,0
+40.569394,-74.11785,aetna-health-insurance-aetna-limited-benefits-insurance-plan-ppo,fever,thoracic-surgery,Under 18,F,0,0
+40.867498,-73.41146,emblemhealth-hip-emblemhealth-comprehealth-hmo,coronary-artery-disease,orthopaedic-surgery,75+,F,10,18
+40.732509,-73.98935,aetna-health-insurance-aetna-voluntary-group-medical-plan-indemnity-plan,coronary-artery-disease,neurotology,75+,F,0,0
+40.639534,-73.69253,emblemhealth-hip-hip-smartstart-network-for-epo,angina,pulmonary-disease,25-34,F,0,0
+40.867498,-73.41146,consumer-health-network-ppo-chn-client-list,malignant-neoplasm-of-fallopian-tube,emergency-medicine,75+,F,0,0
+40.760128,-73.69379,wellcare-wellcare-rx,folic-acid-deficiency,internal-medicine,18-24,M,11,15
+40.77,-73.96,emblemhealth-hip-hip-access-i-ii-plans-vytra-hmo,urinary-tract-infection,cardiology,55-64,F,10,15
+40.848764,-73.93496,empire-blue-cross-blue-shield-direct-pay-hmo,congestive-heart-failure,surgery,65-74,M,12,27
+40.742901,-73.67895,emblemhealth-ghi-ghi-city-of-ny-health-benefits-program,anxiety,pediatrics,25-34,F,11,28
+40.760128,-73.69379,unitedhealthcare-health-reimbursement-account-hra,essential-hypertension,dental-medicine,35-44,F,0,0
+41.167455,-73.77597,magnacare-magnacare-national-access,angina,neurology,75+,F,0,0
+40.741012,-74.00012,empire-blue-cross-blue-shield-exchange-gold-direct-access-pathways-pathways-x-pathways-enhanced-and-pat,coronary-artery-disease,neurology,Under 18,F,0,0
+40.77,-73.96,unitedhealthcare-oxford-exchange,snoring,physician-assistant-services,45-54,M,1,4
+40.760128,-73.69379,empire-blue-cross-blue-shield-exchange-platinum-direct-access-pathways-pathways-x-pathways-enhanced-and,anemia,obstetrics-and-gynecology,55-64,F,10,25
+40.77,-73.96,cigna-healthcare-managed-care-plans-hmo-or-pos-open-access,immunization,emergency-medicine,55-64,F,28,73
+40.760128,-73.69379,aetna-health-insurance-aetna-health-network-option,obesity,undersea-hyperbaric-medicine,65-74,M,0,0
+40.760128,-73.69379,emblemhealth-exchange-select-care-hmo-35-55-silver,amenorrhea,obstetrics-and-gynecology,Under 18,M,0,0
+40.760128,-73.69379,empire-blue-cross-blue-shield-exchange-preferred-direct-access-pathways-pathways-x-pathways-enhanced-an,osteoporosis,musculoskeletal-oncology,25-34,F,0,0
+40.729098,-73.25607,emblemhealth-ghi-ghi-alliance-value-plan,hyperlipidemia,internal-medicine,65-74,M,53,1105
+40.796752,-73.68935,unitedhealthcare-oxford-liberty-plansm-gated-ppo,depressive-disorder,np-in-family-health,45-54,F,9,26
+40.864757,-73.62609,unitedhealthcare-unitedhealthcare-ny-gold-hmo-rx-10-35-70-child-limited-csr,esophagitis,gastroenterology,Under 18,F,0,0
+40.862565,-73.36221,cigna-healthcare-shared-administration-oap,gastritis,craniofacial-surgery,Under 18,F,0,0
+40.796752,-73.68935,empire-blue-cross-blue-shield-exchange-core-guided-access-pathways-pathways-x-pathways-enhanced-and-pat,chest-pain,obstetrics-and-gynecology,45-54,M,0,0
+40.77,-73.96,aetna-health-insurance-traditional-choice,benign-prostatic-hyperplasia,obstetrics-and-gynecology,Under 18,M,0,0
+40.787068,-73.72577,empire-blue-cross-blue-shield-epo,abdominal-pain,internal-medicine,65-74,M,161,432
+40.663935,-73.63792,empire-blue-cross-blue-shield-empire-prism-ppo,anxiety,critical-care-medicine,18-24,F,13,31
+40.867498,-73.41146,unitedhealthcare-oxford-primary-advantagesm-liberty-network,fever,sleep-medicine,Under 18,M,0,0
+40.729098,-73.25607,cigna-healthcare-managed-care-plans-hmo-or-pos-open-access,disorder-of-eye,dermatology,Under 18,F,0,0
+40.787068,-73.72577,fidelis-care-medicaid,aortic-valve-stenosis,emergency-medicine,55-64,M,1,1
+40.725257,-73.64056,aetna-health-insurance-managed-choice-pos,immunization,np-in-family-health,Under 18,M,5,623
+40.742901,-73.67895,unitedhealthcare-oxford-oxford-ppo-hsa-freedom-network-liberty-network,cellulitis,urology,25-34,M,1,1
+40.729098,-73.25607,cigna-healthcare-managed-care-plans-hmo-or-pos-open-access,angina,anesthesiology,25-34,F,0,0
+40.729098,-73.25607,emblemhealth-hip-vytra-hmo,atrial-fibrillation,pediatric-surgery,25-34,M,0,0
+40.853343,-73.20777,unitedhealthcare-unitedhealthcare-ny-bronze-hmo-rx-10-35-70-limited-csr,dementia,sports-medicine,45-54,M,0,0
+40.776777,-73.9541,emblemhealth-hip-hip-premium-network-hmo-pos,cellulitis,critical-care-medicine,75+,F,6,12
+40.862565,-73.36221,emblemhealth-hip-medicare-dual-eligile-ppo-snp,immunization,neurodevelopmental-disability,Under 18,M,0,0
+40.60787,-74.08991,empire-blue-cross-blue-shield-exchange-platinum-direct-access-pathways-pathways-x-pathways-enhanced-and,fecal-incontinence,gastroenterology,25-34,F,1,1
+40.734212,-73.21416,emblemhealth-ghi-ghi-medicare-dual-eligile-ppo-snp,depressive-disorder,nuclear-cardiology,18-24,F,0,0
+40.760128,-73.69379,cigna-healthcare-gwh-cigna-open-access-plus,myasthenia-gravis,family-medicine,55-64,M,0,0
+40.787068,-73.72577,emblemhealth-ghi-ghi-flex-select-epo-hospital-benefits-ppo,asthma,ophthalmology,35-44,M,0,0
+40.599021,-74.07503,healthfirst-healthfirst-completecare-hmo-snp,varicocele,interventional-cardiology,75+,F,0,0
+40.729098,-73.25607,emblemhealth-hip-vytra-hmo,bipolar-disorder,dermatology,35-44,M,0,0
+41.215541,-73.88543,magnacare-magnacare-perferred-ppo,hypoglycemia,emergency-medicine,55-64,M,0,0
+40.720535,-73.84582,multiplan-inc-phcs,immunization,family-medicine,55-64,F,16,395
+40.787068,-73.72577,unitedhealthcare-unitedhealthcare-ny-silver-hmo-rx-6-15-30-94av-csr,stress,surgery-of-the-hand,25-34,M,0,0
+40.867498,-73.41146,emblemhealth-exchange-select-care-gold-hmo,low-back-pain,physical-rehab-medicine,55-64,F,0,0
+40.760128,-73.69379,unitedhealthcare-oxford-freedom-plan-ppo,essential-hypertension,joint-reconstruction,Under 18,F,0,0
+40.729098,-73.25607,emblemhealth-hip-hip-medicaid,atrial-fibrillation,internal-medicine,25-34,F,1,1
+40.862565,-73.36221,wellcare-wellcare-rx,angina,surgery,55-64,M,11,28
+40.742901,-73.67895,empire-blue-cross-blue-shield-exchange-gold-guided-access-pathways-pathways-x-pathways-enhanced-and-pat,erectile-dysfunction,internal-medicine,45-54,M,75,270
+40.787068,-73.72577,unitedhealthcare-oxford-aarp-medicare-complete-hmo-plan-2i,chronic-disease,np-in-adult-health,25-34,F,1,1
+40.599021,-74.07503,unitedhealthcare-unitedhealthcare-ny-silver-hmo-rx-10-35-70-child-73av-csr,immunization,nuclear-cardiology,25-34,M,0,0
+40.765,-73.965,emblemhealth-hip-emblemhealth-comprehealth-hmo,anxiety,pulmonary-disease,55-64,F,13,82
+40.724945,-73.8609,cigna-healthcare-ppo-or-epo-plans,anemia,otolaryngology,65-74,M,8,10
+40.765714,-73.9856,emblemhealth-ghi-ghi-medicare-choice-ppo,colitis,emergency-medicine,45-54,F,32,53
+40.742901,-73.67895,healthfirst-exchange-platinum-leaf-plan,hyperlipidemia,family-medicine,45-54,F,26,634
+40.673,-73.70346,unitedhealthcare-oxford-oxford-gold-ny-standard-epo,gastroparesis,psychiatry,75+,F,0,0
+41.215541,-73.88543,emblemhealth-exchange-select-care-platinum-pos,alcohol-abuse,otolaryngology,25-34,M,0,0
+40.745341,-73.93907,empire-blue-cross-blue-shield-direct-hmo,essential-hypertension,pulmonary-disease,35-44,M,16,84
+40.724945,-73.8609,aetna-health-insurance-aetna-select,coronary-artery-disease,dermatology,18-24,F,0,0
+40.872265,-73.86937,magnacare-magnacare-client-list-aso-ppo,weakness,dermatology,35-44,M,0,0
+40.599021,-74.07503,emblemhealth-exchange-select-care-platinum-d-hmo,colonic-polyps,maternal-fetal-medicine,75+,M,0,0
+40.742901,-73.67895,empire-blue-cross-blue-shield-empire-total-blue,pruritus,urogynecology,65-74,F,1,1
+40.760128,-73.69379,aetna-health-insurance-aetna-choice-pos,immunization,internal-medicine,25-34,M,107,784
+40.862565,-73.36221,magnacare-magnacare-client-list-aso-ppo,incontinence,pediatrics,55-64,F,0,0
+40.703069,-73.89285,empire-blue-cross-blue-shield-healthy-new-york,esophagitis,internal-medicine,45-54,F,103,634
+40.725257,-73.64056,emblemhealth-ghi-medicare-group-access-ppo,atrial-septal-defect,np-in-pediatrics,75+,F,0,0
+40.922326,-72.637078,careconnect-health-plan-careconnect-silver-individual-small-large-group,essential-hypertension,internal-medicine,55-64,M,2,151
+40.77,-73.96,unitedhealthcare-exchange-unitedhealthcare-silver-compass-2-000,benign-prostatic-hyperplasia,internal-medicine,75+,M,91,1175
+40.599021,-74.07503,empire-blue-cross-blue-shield-exchange-core-guided-access-pathways-pathways-x-pathways-enhanced-and-pat,vertigo,orthopaedic-sports-medicine,45-54,M,0,0
+40.760128,-73.69379,healthfirst-healthfirst-coordinated-benefits-plan-hmo,cholecystitis,obstetrics-and-gynecology,75+,F,2,2
+41.080196,-73.85721,wellcare-wellcare-choice,chronic-disease,cardiology,55-64,F,5,14
+40.867498,-73.41146,unitedhealthcare-oxford-oxford-silver-ny-standard-epo,immunization,obstetrics-and-gynecology,45-54,M,1,1
+40.796752,-73.68935,unitedhealthcare-exchange-unitedhealthcare-bronze-compass-3-000,colonoscopy,neuromuscular-medicine,75+,F,0,0
+40.742944,-73.70956,emblemhealth-ghi-ghi-epo-ppo,hypothyroidism,urology,25-34,F,2,3
+40.729098,-73.25607,emblemhealth-hip-vytra-smartstart,essential-hypertension,dermatology,Under 18,F,0,0
+40.787068,-73.72577,unitedhealthcare-unitedhealthcare-options-ppo,hypercholesterolemia,family-medicine,65-74,F,26,414
+40.599021,-74.07503,unitedhealthcare-health-savings-account-hsa,bipolar-disorder,dermatology,75+,F,0,0
+40.760128,-73.69379,cigna-healthcare-managed-care-plans-localplus,hypertensive-heart-disease,dermatology,65-74,M,0,0
+40.729098,-73.25607,elderplan-elderplan-for-medicaid-beneficiaries-hmo-snp,hyperlipidemia,pediatrics,55-64,F,0,0
+40.926595,-72.65327,unitedhealthcare-charter,screening-for-malignant-neoplasm-of-breast,internal-medicine,45-54,F,0,0
+40.742944,-73.70956,cigna-healthcare-managed-care-plans-open-access-plus,anxiety,pediatric-endocrinology,25-34,F,0,0
+41.080196,-73.85721,unitedhealthcare-community-plan-unitedhealthcare-community-plan,electrocardiogram,internal-medicine,55-64,M,9,57
+40.729098,-73.25607,unitedhealthcare-oxford-oxford-silver-ny-standard-epo,angina,obstetrics-and-gynecology,65-74,M,0,0
+40.760128,-73.69379,unitedhealthcare-community-plan-family-health-plus,hypothyroidism,cardiology,45-54,M,24,70
+40.862565,-73.36221,medicare-medicare,amnesia,pediatrics,18-24,F,2,2
+40.760128,-73.69379,healthplus-amerigroup-medicaid-advantage,hypercholesterolemia,orthopaedic-surgery,35-44,M,3,3
+40.77,-73.96,fidelis-care-exchange-ny-state-of-health-exchange,esophagitis,cardiology,65-74,M,43,161
+40.796752,-73.68935,unitedhealthcare-unitedhealthcare-ny-gold-hmo-rx-0-0-0-zero-csr,heart-failure,psychiatry,75+,M,0,0
+40.656974,-73.67306,emblemhealth-hip-hip-medicaid,diabetes-mellitus,sports-medicine,Under 18,M,0,0
+40.926595,-72.65327,emblemhealth-exchange-select-care-platinum-d-hmo,diarrhea,dermatology,55-64,F,0,0
+40.787068,-73.72577,empire-blue-cross-blue-shield-mediblue-ppo,tobacco-use-disorder,medical-oncology,55-64,M,1,1
+40.60787,-74.08991,empire-blue-cross-blue-shield-exchange-core-guided-access-pathways-pathways-x-pathways-enhanced-and-pat,asthma,infectious-disease,25-34,F,0,0
+41.204027,-73.73045,cigna-healthcare-managed-care-plans-primary-care-physicians-hmo-or-pos,mitral-valve-prolapse,pulmonary-disease,65-74,F,1,1
+40.881957,-73.59417,emblemhealth-hip-hip-prime-child-health-plus-hip-kid,hyperlipidemia,ophthalmology,75+,F,0,0
+40.599021,-74.07503,emblemhealth-hip-hip-ppo-self-insured,hemangioma,emergency-medicine,65-74,M,0,0
+40.741012,-74.00012,emblemhealth-exchange-select-care-hd-6300-bronze,asthma,orthopaedic-surgery,45-54,M,10,18
+40.787068,-73.72577,emblemhealth-ghi-ghi-alliance-365-day-hospital-only,abdominal-pain,obstetrics-and-gynecology,25-34,M,0,0
+40.760128,-73.69379,partners-health-plan-php-care-complete-fida-idd,depressive-disorder,ophthalmology,75+,M,0,0
+40.724945,-73.8609,aetna-health-insurance-hmo,osteoporosis,np-in-pediatrics,Under 18,F,0,0
+40.946103,-73.06222,healthfirst-healthfirst-65-plus-plan-hmo,low-back-pain,ophthalmology,35-44,M,0,0
+40.759015,-73.96732,unitedhealthcare-oxford-aarp-medicare-complete-hmo-plan-2i,vitamin-d-deficiency,urology,35-44,M,1,1
+40.639534,-73.69253,unitedhealthcare-unitedhealthcare-choice,immunization,joint-reconstruction,35-44,F,0,0
+40.787068,-73.72577,healthfirst-exchange-green-leaf-plan,fatigue,gastroenterology,75+,M,8,22
+40.787068,-73.72577,empire-blue-cross-blue-shield-exchange-bronze-direct-access-pathways-pathways-x-pathways-enhanced-and-p,atrial-fibrillation,internal-medicine,65-74,F,233,1035
+40.867498,-73.41146,health-net-federal-services-tricare-program-north-region,colonoscopy,family-medicine,Under 18,F,0,0
+40.922326,-72.637078,empire-blue-cross-blue-shield-direct-pay-hmo,peripheral-vascular-disease,internal-medicine,25-34,F,0,0
+40.663935,-73.63792,unitedhealthcare-unitedhealthcare-ny-silver-hmo-rx-10-35-70-child-73av-csr,chest-pain,emergency-medicine,Under 18,M,28,65
+40.787068,-73.72577,unitedhealthcare-oxford-oxford-silver-ny-standard-ppo,coronary-artery-disease,emergency-medicine,75+,M,44,401
+40.787068,-73.72577,emblemhealth-exchange-select-care-bronze-d-hmo,immunization,surgery,Under 18,F,0,0
+40.760128,-73.69379,healthfirst-exchange-bronze-leaf-plan,hypothyroidism,pediatrics,45-54,F,1,6
+40.760128,-73.69379,unitedhealthcare-unitedhealthcare-ny-silver-hmo-rx-9-20-40-87av-csr,essential-hypertension,pediatrics,65-74,F,7,34
+40.787068,-73.72577,emblemhealth-exchange-select-care-platinum-hmo,coronary-artery-disease,surgery,75+,M,56,211
+40.864757,-73.62609,unitedhealthcare-unitedhealthcare-ny-bronze-hmo-rx-0-0-0-zero-csr,aortic-valve-stenosis,urology,65-74,M,3,5
+40.864757,-73.62609,emblemhealth-ghi-consumerdirect-epo,diarrhea,orthopaedic-surgery,35-44,F,1,1
+40.796752,-73.68935,unitedhealthcare-core,congestive-heart-failure,urology,75+,M,4,14
+40.599021,-74.07503,unitedhealthcare-exchange-unitedhealthcare-silver-compass-hsa-250,esophagitis,internal-medicine,25-34,M,38,114
+40.759686,-73.73322,empire-blue-cross-blue-shield-exchange-gold-direct-access-pathways-pathways-x-pathways-enhanced-and-pat,peripheral-vascular-disease,joint-reconstruction,25-34,M,0,0
+40.724945,-73.8609,empire-blue-cross-blue-shield-child-health-plus,congestive-heart-failure,cardiology,Under 18,M,0,0
+40.813801,-73.46912,health-net-federal-services-tricare-program-north-region,angina,surgery,25-34,M,0,0
+40.687649,-73.32549,emblemhealth-hip-hip-premium-network-hmo-pos,hyperglycemia,orthopaedic-sports-medicine,18-24,F,0,0
+40.798839,-73.73352,unitedhealthcare-united-healthcare-medicare-complete-choice,anxiety,internal-medicine,Under 18,F,6,17
+40.796752,-73.68935,emblemhealth-hip-hip-medicaid-r,abdominal-pain,obstetrics-and-gynecology,75+,F,11,24
+40.796752,-73.68935,amidacare-live-life-plus,pharyngitis,urology,55-64,F,0,0
+40.74618,-73.97759,emblemhealth-exchange-select-care-basic-hmo,dehydration,cardiology,Under 18,F,0,0
+40.787068,-73.72577,unitedhealthcare-community-plan-unitedhealthcare-community-plan,arthritis,internal-medicine,65-74,F,189,742
+40.729098,-73.25607,unitedhealthcare-oxford-oxford-ppo-hsa-freedom-network-liberty-network,colonoscopy,hematology,35-44,F,0,0
+40.765,-73.965,emblemhealth-exchange-select-care-bronze-hmo,screening-for-malignant-neoplasm-of-breast,cardiology,35-44,F,1,1
+40.779911,-73.47948,elderplan-elderplan-classic-zero-premium-hmo,irregular-menstruation,otolaryngology,25-34,M,0,0
+40.741012,-74.00012,emblemhealth-hip-hip-prime-child-health-plus-hip-kid,laceration,internal-medicine,45-54,M,0,0
+40.760128,-73.69379,empire-blue-cross-blue-shield-mediblue-hmo,back-pain,anatomic-clinical-pathology,75+,F,0,0
+40.813801,-73.46912,affinity-health-plan-exchange-affinity-essential-bronze,constipation,internal-medicine,55-64,F,43,156
+40.841522,-73.28001,empire-blue-cross-blue-shield-exchange-platinum-guided-access-pathways-pathways-x-pathways-enhanced-and,essential-hypertension,emergency-medicine,Under 18,F,1,1
+40.741012,-74.00012,emblemhealth-hip-hip-premium-network-hmo-pos,angina,maternal-fetal-medicine,75+,F,0,0
+40.787068,-73.72577,unitedhealthcare-unitedhealthcare-ny-platinum-hmo-rx-0-0-0-zero-csr,urinary-tract-infection,diagnostic-radiology,25-34,F,0,0
+40.776777,-73.9541,emblemhealth-exchange-select-care-bronze-d-hmo,tinnitus,emergency-medicine,65-74,F,2,2
+40.867498,-73.41146,emblemhealth-hip-hip-smartstart-network-for-epo,hypothyroidism,orthopaedic-surgery,75+,F,10,43
+40.787068,-73.72577,affinity-health-plan-medicare-advantage,malignant-neoplasm-of-esophagus,pulmonary-disease,45-54,F,0,0
+40.687649,-73.32549,unitedhealthcare-unitedhealthcare-ny-gold-hmo-rx-10-35-70-child-limited-csr,essential-hypertension,obstetrics-and-gynecology,55-64,F,12,130
+40.77,-73.96,emblemhealth-ghi-ghi-epo-ppo,low-back-pain,gastroenterology,65-74,F,2,11
+40.760128,-73.69379,elderplan-elderplan-medicaid-advantage-hmo-snp,esophagitis,vascular-medicine,25-34,F,0,0
+40.742901,-73.67895,emblemhealth-exchange-select-care-hd-6300-bronze,hernia-inguinal,ophthalmology,Under 18,M,0,0
+40.599021,-74.07503,empire-blue-cross-blue-shield-epo,colonoscopy,cardiology,65-74,F,0,0
+40.74618,-73.97759,empire-blue-cross-blue-shield-exchange-preferred-guided-access-pathways-pathways-x-pathways-enhanced-an,vertigo,cardiology,45-54,F,30,125
+40.606337,-74.14513,emblemhealth-hip-hip-access-i-ii-plans-vytra-hmo,menorrhagia,spine-surgery,Under 18,F,0,0
+40.784453,-73.80922,empire-blue-cross-blue-shield-exchange-preferred-guided-access-pathways-pathways-x-pathways-enhanced-an,tinnitus,orthopaedic-surgery,65-74,F,1,1
+40.551353,-74.15098,empire-blue-cross-blue-shield-exchange-premiere-direct-access-pathways-pathways-x-pathways-enhanced-and,transient-ischemic-attack,internal-medicine,25-34,F,13,14
+40.742901,-73.67895,healthfirst-healthfirst-increased-benefits-plan-hmo,hypercholesterolemia,np-in-womens-health,18-24,M,0,0
+40.687649,-73.32549,emblemhealth-hip-hip-ppo-self-insured,anxiety,dermatology,35-44,M,0,0
+40.673438,-73.53382,healthfirst-exchange-platinum-leaf-plan,asthma,emergency-medicine,55-64,M,20,113
+40.729098,-73.25607,affinity-health-plan-child-health-plus,rhinitis,maternal-fetal-medicine,65-74,F,0,0
+40.724945,-73.8609,unitedhealthcare-unitedhealthcare-ny-bronze-hmo-rx-10-35-70-limited-csr,coronary-artery-disease,sports-medicine,75+,M,4,4
+40.765,-73.965,emblemhealth-ghi-ghi-medicare-choice-ppo,hypothyroidism,internal-medicine,35-44,F,64,546
+40.741012,-74.00012,emblemhealth-hip-hip-medicaid-r,immunization,pediatric-hospital-medicine,65-74,F,0,0
+40.796752,-73.68935,cigna-healthcare-shared-administration-oap,chronic-disease,np-in-family-health,55-64,F,8,28
+40.953261,-72.8368,careconnect-health-plan-careconnect-gold-individual-small-large-group,uterine-prolapse,np-in-adult-health,Under 18,F,0,0
+40.68085,-73.46289,unitedhealthcare-unitedhealthcare-ny-bronze-hmo-rx-10-35-70,colonoscopy,obstetrics-and-gynecology,25-34,F,0,0
+40.759015,-73.96732,cigna-healthcare-strategic-alliance,low-back-pain,internal-medicine,35-44,F,32,86
+40.746718,-73.75994,unitedhealthcare-unitedhealthcare-ny-silver-hmo-rx-0-0-0-zero-csr,chronic-disease,emergency-medicine,35-44,M,13,37
+40.763177,-73.77392,emblemhealth-exchange-select-care-gold-hmo,anxiety,pediatric-critical-care-med,75+,F,0,0
+40.57649,-73.84721,unitedhealthcare-oxford-aarp-medicare-complete-mosaic-h,diarrhea,pediatric-endocrinology,45-54,M,0,0
+40.776777,-73.9541,cigna-healthcare-strategic-alliance,hypercholesterolemia,ophthalmology,75+,F,1,1
+40.946103,-73.06222,empire-blue-cross-blue-shield-exchange-preferred-direct-access-pathways-pathways-x-pathways-enhanced-an,visual-impairment,endocrinology-metab-diabetes,65-74,F,0,0
+40.77,-73.96,agewell-new-york-fida,low-back-pain,cardiology,55-64,F,5,18
+40.606337,-74.14513,unitedhealthcare-unitedhealthcare-ny-gold-hmo-rx-0-0-0-child-zero-csr,anxiety,maternal-fetal-medicine,18-24,F,0,0
+40.972667,-73.71886,emblemhealth-ghi-ghi-alliance-value-plan,hyperlipidemia,emergency-medicine,45-54,M,5,12
+40.599021,-74.07503,unitedhealthcare-oxford-exchange,essential-hypertension,pediatrics,65-74,F,2,2
+40.725968,-73.44151,humana-medicare-hmo,esophagitis,endocrinology-metab-diabetes,Under 18,M,0,0
+40.760128,-73.69379,unitedhealthcare-oxford-aarp-medicare-complete-essential-h,osteoporosis,internal-medicine,75+,F,206,2478
+41.080196,-73.85721,railroad-medicare-railroad-medicare,tachycardia,family-medicine,55-64,M,2,4
+40.796752,-73.68935,empire-blue-cross-blue-shield-child-health-plus,anxiety,obstetrics-and-gynecology,Under 18,F,11,12
+40.864757,-73.62609,unitedhealthcare-health-reimbursement-account-hra,back-pain,critical-care-medicine,65-74,M,13,28
+40.765,-73.965,medicare-medicare,cellulitis,otolaryngology,35-44,M,8,14
+40.796752,-73.68935,emblemhealth-ghi-ghi-brooklyn-healthworks-max,hypothyroidism,endocrinology-metab-diabetes,25-34,F,15,423
+40.742901,-73.67895,emblemhealth-hip-hip-select-ppo-plans,anxiety,ophthalmology,Under 18,M,1,1
+40.760128,-73.69379,unitedhealthcare-unitedhealthcare-ny-silver-hmo-rx-0-0-0-zero-csr,hyperlipidemia,np-in-family-health,75+,F,8,173
+40.618561,-73.9216,humana-medicare-hmo,colonoscopy,pulmonary-disease,25-34,M,0,0
+40.729098,-73.25607,unitedhealthcare-unitedhealthcare-ny-gold-hmo-rx-10-35-70,dysuria,critical-care-medicine,55-64,M,0,0
+40.599021,-74.07503,unitedhealthcare-oxford-oxford-bronze-ny-standard-epo,hyperlipidemia,otolaryngology,35-44,F,1,1
+40.867498,-73.41146,new-york-state-medicaid-new-york-state-medicaid,esophagitis,neurology,75+,F,0,0
+40.599021,-74.07503,emblemhealth-hip-vytra-hmo,incontinence,gastroenterology,Under 18,F,0,0
+41.215541,-73.88543,emblemhealth-hip-hip-hmo-direct-pay,fatigue,plastic-surgery,75+,M,0,0
+40.796752,-73.68935,unitedhealthcare-unitedhealthcare-ny-platinum-hmo-rx-0-0-0-child-zero-csr,hypokalemia,rheumatology,65-74,F,1,1
+40.922326,-72.637078,emblemhealth-ghi-ghi-epo-ppo-share,hyperlipidemia,pediatrics,75+,M,0,0
+40.774686,-73.90816,unitedhealthcare-unitedhealthcare-catalyst,hypercholesterolemia,surgery-of-the-hand,18-24,F,0,0
+40.725257,-73.64056,emblemhealth-ghi-ghi-flex-select-epo-hospital-benefits-ppo,hypercholesterolemia,endocrinology-metab-diabetes,75+,M,15,68
+40.68085,-73.46289,emblemhealth-ghi-ghi-alliance-365-day-hospital-only,pain-in-limb,sleep-medicine,25-34,F,0,0
+40.76842,-73.96045,careconnect-health-plan-careconnect-bronze-individual-small-large-group,hypercholesterolemia,family-medicine,25-34,M,5,30
+40.68085,-73.46289,magnacare-magnacare-perferred-ppo,esophagitis,preventive-medicine,75+,F,0,0
+40.787068,-73.72577,emblemhealth-hip-family-health-plus,cardiomyopathy,pediatrics,65-74,M,2,2
+40.796752,-73.68935,unitedhealthcare-oxford-oxford-silver-ny-standard-ppo,aortic-valve-disorder,vascular-surgery,35-44,M,0,0
+40.656974,-73.67306,unitedhealthcare-oxford-oxford-platinum-ny-standard-ppo,endocarditis,critical-care-medicine,75+,M,0,0
+40.742901,-73.67895,magnacare-magnacare-client-list-aso-ppo,rhinitis,obstetrics-and-gynecology,35-44,M,0,0
+40.765,-73.965,healthfirst-child-health-plus,gastritis,ophthalmology,18-24,F,0,0
+40.922326,-72.637078,emblemhealth-ghi-ghi-small-business-advantage-plan,anemia,physician-assistant-services,65-74,F,0,0
+40.742901,-73.67895,cigna-healthcare-indemnity,hemorrhoids,family-medicine,75+,M,12,20
+40.759015,-73.96732,affinity-health-plan-exchange-affinity-essential-gold,angina,internal-medicine,25-34,F,4,12
+40.853343,-73.20777,vns-hiv-special-needs-plan,back-pain,obstetrics-and-gynecology,65-74,F,8,11
+40.741012,-74.00012,emblemhealth-hip-hip-smartstart-network-for-epo,hernia-inguinal,medical-oncology,Under 18,M,0,0
+40.760128,-73.69379,aetna-health-insurance-open-choice-ppo,coronary-artery-disease,emergency-medicine,45-54,M,23,71
+40.796752,-73.68935,emblemhealth-exchange-select-care-healthy-ny-hmo-gold,endocarditis,family-medicine,Under 18,M,0,0
+40.734718,-74.00532,careconnect-health-plan-careconnect-platinum-individual-small-large-group,obesity,surgery,65-74,M,15,51
+40.742901,-73.67895,magnacare-magnacare-guardian,cardiomyopathy,surgery,Under 18,M,0,0
+40.760128,-73.69379,unitedhealthcare-unitedhealthcare-ny-bronze-hmo-rx-0-0-0-zero-csr,essential-hypertension,urology,55-64,M,23,441
+40.729098,-73.25607,emblemhealth-ghi-ghi-flex-select-epo-hospital-benefits-ppo,colitis,cardiology,Under 18,F,0,0
+40.796752,-73.68935,unitedhealthcare-exchange-unitedhealthcare-catastrophic-compass-6-600,vitamin-d-deficiency,emergency-medicine,Under 18,M,0,0
+40.922326,-72.637078,aetna-health-insurance-aetna-health-network-option,angina,psychiatry,35-44,M,0,0
+40.787068,-73.72577,fidelis-care-family-health-plus,incontinence,np-in-pediatrics,18-24,M,1,1
+40.734212,-73.21416,unitedhealthcare-unitedhealthcare-ny-platinum-hmo-rx-10-30-60,hyperlipidemia,obstetrics-and-gynecology,35-44,F,6,7
+40.729098,-73.25607,healthfirst-child-health-plus,lupus-erythematosus-systemic,emergency-medicine,35-44,F,0,0
+40.787068,-73.72577,unitedhealthcare-community-plan-family-health-plus,diarrhea,physician-assistant-services,65-74,F,1,1
+40.787068,-73.72577,unitedhealthcare-unitedhealthcare-north-shore-lij-advantage-plus,obesity,orthopaedic-surgery,25-34,F,11,20
+40.599021,-74.07503,emblemhealth-hip-hip-access-i-ii-plans-vytra-hmo,immunization,internal-medicine,Under 18,M,1,1
+40.776777,-73.9541,amidacare-live-life-advantage-hmo-snp,hyperlipidemia,pulmonary-disease,Under 18,F,0,0
+40.74618,-73.97759,emblemhealth-ghi-ghi-epo-ppo-hsa,immunization,internal-medicine,25-34,F,51,565
+40.796752,-73.68935,amidacare-true-life-advantage-hmo-snp,menstruation,obstetrics-and-gynecology,45-54,M,0,0
+40.796752,-73.68935,careconnect-health-plan-careconnect-gold-individual-small-large-group,chest-pain,cardiothoracic-surgery,65-74,F,7,24
+40.673,-73.70346,healthplus-amerigroup-medicaid-advantage-plus,spinal-stenosis,joint-reconstruction,45-54,F,1,1
+40.618561,-73.9216,cigna-healthcare-managed-care-plans-localplus,ventral-hernia,pediatrics,65-74,M,0,0
+40.760128,-73.69379,cigna-healthcare-global-health-benefits,angina,surgery,25-34,F,2,2
+40.864757,-73.62609,unitedhealthcare-unitedhealthcare-ny-gold-hmo-rx-0-0-0-zero-csr,alzheimers-disease,pediatrics,25-34,F,0,0
+40.796752,-73.68935,unitedhealthcare-oxford-oxford-gold-ny-standard-epo,colonoscopy,gastroenterology,18-24,F,2,2
+40.77,-73.96,emblemhealth-hip-millenium-network,dysuria,surgery,45-54,M,2,3
+40.867498,-73.41146,cigna-healthcare-managed-care-plans-hmo-or-pos-open-access,aortic-aneurysm-thoracic,pediatrics,25-34,M,0,0
+40.922326,-72.637078,empire-blue-cross-blue-shield-exchange-preferred-guided-access-pathways-pathways-x-pathways-enhanced-an,immunization,pediatrics,45-54,M,0,0
+40.905647,-73.33114,elderplan-elderplan-extra-help-hmo,malignant-neoplasm-of-skin,interventional-neuroradiology,Under 18,F,0,0
+40.61579,-73.73126,wellcare-child-health-plus,congestive-heart-failure,nuclear-cardiology,45-54,F,1,1
+40.784453,-73.80922,affinity-health-plan-medicaid,cervical,dermatology,25-34,M,0,0
+40.599021,-74.07503,wellcare-child-health-plus,hyperlipidemia,pediatrics,18-24,M,8,17
